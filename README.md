@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Samuel Marinho
+# Samuel Marinho
 
 **`Analytics Engineer | Data Engineer`**
 
