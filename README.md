@@ -12,9 +12,8 @@ Sou Analytics Engineer com foco em **Data Platforms e arquitetura em cloud (AWS)
 - Airflow, dbt  
 - Docker, Terraform  
 - Git, CI/CD (Jenkins)  
-- Governança e qualidade de dados  
-
-
+- Governança e qualidade de dados
+  
 
 ---
 
@@ -29,17 +28,17 @@ Sou Analytics Engineer com foco em **Data Platforms e arquitetura em cloud (AWS)
   </a>
 </p>
 
+
 ---
 
 ### 🧠 Stack Principal
 
 <p align="left">
   <img alt="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img alt="SQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+  <img alt="PostgreSQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
   <img alt="Spark" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg"/>
-  <img alt="AWS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
   <img alt="Docker" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
   <img alt="Terraform" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"/>
   <img alt="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img alt="AWS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"/>
 </p>
-
