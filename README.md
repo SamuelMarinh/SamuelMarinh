@@ -2,8 +2,7 @@
 
 **`Analytics Engineer | Data Engineer`**
 
-Sou Analytics Engineer com foco em **Data Platforms, pipelines analíticos e arquitetura em cloud (AWS)**.  
-Atuo transformando dados brutos em **datasets confiáveis, governados e prontos para decisão**, sempre com atenção a **custo, performance e escalabilidade**.
+Sou Analytics Engineer com foco em **Data Platforms e arquitetura em cloud (AWS)**.  
 
 ---
 
